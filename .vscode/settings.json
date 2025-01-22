@@ -1,0 +1,8 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/8b988564-378f-46c6-99f4-059090e82cdd/resourceGroups/InHouseDevelopment/providers/Microsoft.Web/sites/ucost",
+    "appService.deploySubpath": ".",
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ]
+}
